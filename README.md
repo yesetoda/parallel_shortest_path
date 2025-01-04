@@ -95,7 +95,6 @@ Graphs are generated randomly with:
 
 ### Output
 - **Execution times** for sequential and parallel implementations.  
-- **Shortest path results** (distances or matrices).  
 
 ### Example Command
 ```bash
@@ -105,7 +104,7 @@ go run bellmanford.go
 
 ---
 
-## 📊 Performance Analysis
+### 📊 Performance Analysis
 
 The project compares sequential and parallel implementations to highlight performance improvements.  
 **Key Findings**:
