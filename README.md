@@ -144,7 +144,7 @@ Parallel Time Taken: 1.989603s
 Non-Parallel Time Taken: 2.5884075s
 ```
 
-## 👥 Contributors
+## Contributors
 
 This project was collaboratively developed by:  
 - **Yeneineh Seiba**  
