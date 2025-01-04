@@ -96,7 +96,6 @@ Graphs are generated randomly with:
 ### Output
 - **Execution times** for sequential and parallel implementations.  
 
-
 ### Example Command
 ```bash
 cd "Bellman Ford"
