@@ -14,7 +14,6 @@ This repository showcases the implementation and optimization of shortest path a
 5. [Usage](#usage)  
 6. [Performance Analysis](#performance-analysis)  
 7. [Contributors](#contributors)  
-8. [License](#license)  
 
 ---
 
